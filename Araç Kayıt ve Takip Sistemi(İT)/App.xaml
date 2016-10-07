@@ -1,0 +1,8 @@
+﻿<Application x:Class="Araç_Kayıt_ve_Takip_Sistemi_İT_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="ana form.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

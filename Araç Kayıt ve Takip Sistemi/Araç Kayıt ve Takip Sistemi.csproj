@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{049407D0-E131-49AE-9409-E702A120B24D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Araç_Kayıt_ve_Takip_Sistemi</RootNamespace>
+    <AssemblyName>Araç Kayıt ve Takip Sistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>firma  okon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="arac_cks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arac_cks.Designer.cs">
+      <DependentUpon>arac_cks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arac_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arac_delete.Designer.cs">
+      <DependentUpon>arac_delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arac_firma_kontrol Merkezi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arac_firma_kontrol Merkezi.Designer.cs">
+      <DependentUpon>Arac_firma_kontrol Merkezi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arac_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arac_update.Designer.cs">
+      <DependentUpon>arac_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arc_grs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arc_grs.Designer.cs">
+      <DependentUpon>arc_grs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arc_save.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arc_save.Designer.cs">
+      <DependentUpon>arc_save.cs</DependentUpon>
+    </Compile>
+    <Compile Include="baglanti.cs" />
+    <Compile Include="degerler.cs" />
+    <Compile Include="firma_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="firma_delete.Designer.cs">
+      <DependentUpon>firma_delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="firma_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="firma_ekle.Designer.cs">
+      <DependentUpon>firma_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="firma_komuta_merekzi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="firma_komuta_merekzi.Designer.cs">
+      <DependentUpon>firma_komuta_merekzi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_update.Designer.cs">
+      <DependentUpon>frm_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayit_islemleri.cs" />
+    <Compile Include="Komutamerkezi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Komutamerkezi.Designer.cs">
+      <DependentUpon>Komutamerkezi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="k_giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="k_giris.Designer.cs">
+      <DependentUpon>k_giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="prsnl_blglr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prsnl_blglr.Designer.cs">
+      <DependentUpon>prsnl_blglr.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="arac_cks.resx">
+      <DependentUpon>arac_cks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arac_delete.resx">
+      <DependentUpon>arac_delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arac_firma_kontrol Merkezi.resx">
+      <DependentUpon>Arac_firma_kontrol Merkezi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arac_update.resx">
+      <DependentUpon>arac_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arc_grs.resx">
+      <DependentUpon>arc_grs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arc_save.resx">
+      <DependentUpon>arc_save.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firma_delete.resx">
+      <DependentUpon>firma_delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firma_ekle.resx">
+      <DependentUpon>firma_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firma_komuta_merekzi.resx">
+      <DependentUpon>firma_komuta_merekzi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_update.resx">
+      <DependentUpon>frm_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Komutamerkezi.resx">
+      <DependentUpon>Komutamerkezi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="k_giris.resx">
+      <DependentUpon>k_giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="prsnl_blglr.resx">
+      <DependentUpon>prsnl_blglr.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="firma  okon.ico" />
+    <Content Include="resim ve iconlar\Add.png" />
+    <Content Include="resim ve iconlar\aracx.png" />
+    <Content Include="resim ve iconlar\barriere-levante-microdrive-1054132.png" />
+    <Content Include="resim ve iconlar\cadenas.ico" />
+    <Content Include="resim ve iconlar\decrypted.ico" />
+    <Content Include="resim ve iconlar\Delete.png" />
+    <Content Include="resim ve iconlar\exit car.gif" />
+    <Content Include="resim ve iconlar\firma  okon.ico" />
+    <Content Include="resim ve iconlar\Güncelle.png" />
+    <Content Include="resim ve iconlar\Kayıt.ico" />
+    <Content Include="resim ve iconlar\kurumsal_icon.png" />
+    <Content Include="resim ve iconlar\Personnel-icon.png" />
+    <Content Include="resim ve iconlar\Rapor.ico" />
+    <Content Include="resim ve iconlar\Rapor.png" />
+    <Content Include="resim ve iconlar\Update.png" />
+    <Content Include="resim ve iconlar\user.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

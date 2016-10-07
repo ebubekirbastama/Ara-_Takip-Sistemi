@@ -1,0 +1,34 @@
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\App.g.cs
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT)_MarkupCompile.cache
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\MainWindow.baml
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\MainWindow.g.cs
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT).g.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi_İT_.Properties.Resources.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT).csproj.GenerateResource.Cache
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\bin\Debug\Araç Kayıt ve Takip Sistemi(İT).exe
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\bin\Debug\Araç Kayıt ve Takip Sistemi(İT).pdb
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT).exe
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT).pdb
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\ana form.baml
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\güncelle.baml
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\sil.baml
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\ana form.g.cs
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\güncelle.g.cs
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\sil.g.cs
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\bin\Debug\resimler\arıza.ico
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT).csprojResolveAssemblyReference.cache
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT)_MarkupCompile.lref
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\bin\Debug\Araç Kayıt ve Takip Sistemi(İT).exe.config
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT).csprojResolveAssemblyReference.cache
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\ana form.baml
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\MainWindow.baml
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\sil.baml
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\ana form.g.cs
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\güncelle.g.cs
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\MainWindow.g.cs
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\sil.g.cs
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\App.g.cs
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT)_MarkupCompile.cache
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT)_MarkupCompile.lref
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT).exe
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi(İT)\obj\Debug\Araç Kayıt ve Takip Sistemi(İT).pdb

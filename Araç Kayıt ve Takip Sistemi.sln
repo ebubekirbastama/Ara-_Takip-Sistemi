@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araç Kayıt ve Takip Sistemi", "Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi.csproj", "{049407D0-E131-49AE-9409-E702A120B24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araç Kayıt ve Takip Sistemi(İT)", "Araç Kayıt ve Takip Sistemi(İT)\Araç Kayıt ve Takip Sistemi(İT).csproj", "{8E669BB3-309D-4F51-B352-72A06F63F4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049407D0-E131-49AE-9409-E702A120B24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049407D0-E131-49AE-9409-E702A120B24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049407D0-E131-49AE-9409-E702A120B24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049407D0-E131-49AE-9409-E702A120B24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E669BB3-309D-4F51-B352-72A06F63F4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E669BB3-309D-4F51-B352-72A06F63F4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E669BB3-309D-4F51-B352-72A06F63F4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E669BB3-309D-4F51-B352-72A06F63F4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+c:\users\azrail\documents\visual studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arc_save.resources
+c:\users\azrail\documents\visual studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.Properties.Resources.resources
+c:\users\azrail\documents\visual studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç Kayıt ve Takip Sistemi.csproj.GenerateResource.Cache
+c:\users\azrail\documents\visual studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\bin\Debug\Araç Kayıt ve Takip Sistemi.exe
+c:\users\azrail\documents\visual studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\bin\Debug\Araç Kayıt ve Takip Sistemi.pdb
+c:\users\azrail\documents\visual studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç Kayıt ve Takip Sistemi.exe
+c:\users\azrail\documents\visual studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç Kayıt ve Takip Sistemi.pdb
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.Komutamerkezi.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arc_grs.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.firma_ekle.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.Arac_firma_kontrol_Merkezi.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.prsnl_blglr.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arac_delete.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arac_update.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.firma_delete.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.firma_komuta_merekzi.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.frm_update.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arac_cks.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.k_giris.resources
+C:\Users\azrail\Documents\Visual Studio 2013\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç Kayıt ve Takip Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç Kayıt ve Takip Sistemi.exe
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç Kayıt ve Takip Sistemi.pdb
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\bin\Debug\Araç Kayıt ve Takip Sistemi.exe
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\bin\Debug\Araç Kayıt ve Takip Sistemi.pdb
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç Kayıt ve Takip Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arac_cks.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arac_delete.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.Arac_firma_kontrol_Merkezi.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arac_update.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arc_grs.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.arc_save.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.firma_delete.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.firma_ekle.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.firma_komuta_merekzi.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.frm_update.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.Komutamerkezi.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.k_giris.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.Properties.Resources.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç_Kayıt_ve_Takip_Sistemi.prsnl_blglr.resources
+C:\Users\ebubekir\Documents\Visual Studio 2015\Projects\Araç Kayıt ve Takip Sistemi\Araç Kayıt ve Takip Sistemi\obj\Debug\Araç Kayıt ve Takip Sistemi.csproj.GenerateResource.Cache
