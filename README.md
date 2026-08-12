@@ -177,6 +177,6 @@ Bu depoda ayrı bir lisans dosyası bulunuyorsa ilgili lisans koşulları geçer
 
 ## 👨‍💻 Geliştirici
 
-**Ebubekir Baştama**
+**Ebubekir Bastama**
 
 GitHub: https://github.com/ebubekirbastama
